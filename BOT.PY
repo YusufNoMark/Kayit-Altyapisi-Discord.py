@@ -33,4 +33,4 @@ async def kayıt(ctx, member: discord.Member, nick):
   
   
   
-client.run("OTQ1MjA5OTY0MzcxMjc5ODcy.YhM1YA.mFa_VGMOX8SAlAL-tLi5AI7hmHM")
+client.run("TOKEN")
